@@ -1,11 +1,10 @@
 ---
 name: theological-aesthetics-method
-description: Apply form-perception to reveal meaningful unity and radiating splendor
-  in any phenomenon - seeing the whole rather than merely cataloging parts.
+description: Apply form-perception to reveal meaningful unity and radiating splendor in any phenomenon - seeing the whole rather than merely cataloging parts.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - theological-aesthetics-method
 - transformation
